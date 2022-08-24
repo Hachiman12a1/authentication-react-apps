@@ -69,6 +69,7 @@ const AuthForm = () => {
         alert(error.message);
       });
   };
+  
 
   return (
     <section className={classes.auth}>
